@@ -316,6 +316,38 @@ h3 {
   justify-content: center;
 }
 
+/* Add this at the end of the file to style the footer */
+.footer {
+  background-color: #004d40;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  z-index: 1000;
+}
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-content span {
+  margin-right: 15px;
+}
+
+.footer-content .icon-btn {
+  margin: 0 5px;
+}
+
+.footer-content .icon-btn i {
+  color: #fff;
+  font-size: 20px;
+}
+
+
 /* Original */
 
 /* #intro.section {
