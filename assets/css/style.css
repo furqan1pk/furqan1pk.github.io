@@ -317,8 +317,9 @@ h3 {
 }
 
 /* Add this at the end of the file to style the footer */
+/* Add this at the end of the file to style the footer */
 .footer {
-  background-color: #004d40;
+  background-color: #333;  /* Dark gray color */
   color: #fff;
   text-align: center;
   padding: 10px 0;
@@ -326,27 +327,35 @@ h3 {
   width: 100%;
   bottom: 0;
   z-index: 1000;
+  font-family: Arial, sans-serif;  /* Optional: to ensure consistent font styling */
 }
 
 .footer-content {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 15px;  /* Add some space between items */
 }
 
-.footer-content span {
+.footer-content .contact-number {
   margin-right: 15px;
+  display: flex;
+  align-items: center;
 }
 
 .footer-content .icon-btn {
   margin: 0 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
 }
 
 .footer-content .icon-btn i {
   color: #fff;
   font-size: 20px;
 }
-
 
 /* Original */
 
