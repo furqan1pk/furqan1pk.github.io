@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[45678,["/_next/static/chunks/0fsi8lw5utejl.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0z858cpf6mxb9.js","/_next/static/chunks/0wgpweai8wo_f.js"],"default"]
+3:I[78315,["/_next/static/chunks/0fsi8lw5utejl.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0z858cpf6mxb9.js","/_next/static/chunks/0wgpweai8wo_f.js"],"GlassmorphismPortfolioBlock"]
+4:I[13642,["/_next/static/chunks/0fsi8lw5utejl.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0z858cpf6mxb9.js","/_next/static/chunks/0wgpweai8wo_f.js"],"default"]
+5:I[97367,["/_next/static/chunks/0fsi8lw5utejl.js","/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"children":["$","$L3",null,{}]}],["$","$L4",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/0z858cpf6mxb9.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0wgpweai8wo_f.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4NJINMFWEd30GCS7HezZa"}
+7:null
